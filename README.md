@@ -15,6 +15,6 @@ $ node build
 and open `Wallpaper Engine` and change to another theme and change back to `index.html` (this `index.html` is the html file in this project)
 ## Source
 > The original source can be found here: https://codepen.io/reccanti/pen/BjwOev.
-> I'd modify some code in that and created Kanji list builder in NodeJS
+> I've modified some code in that and created Kanji list builder in NodeJS
 ## Author
 tuannhse04791
